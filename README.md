@@ -1,0 +1,2 @@
+# login
+O projeto em questão não atende 100% das exigências que o MMLabs propôs. O objetivo era criar uma interface própria tal qual um banco de dados bem definido. Como minhas aptidões como desenvolvedor ainda são bem iniciantes, consegui instalar pelo prompt de comando todo o banco de dados do Laravel necessários para fazer o login. Tentei fazer algumas modificações com os nomes, com alguns títulos mas ainda necessito e quero aprender muita coisa de front e toda a parte de desenvolvimento web.
